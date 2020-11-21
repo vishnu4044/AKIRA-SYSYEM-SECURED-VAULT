@@ -1,0 +1,8 @@
+With DOS Version 5 and later you can hide data files by applying the +H (hidden) attribute. -H removes the hidden attribute.
+ The +S (system) and -S options are generally used by programmers to hide and unhide command files used only by DOS. 
+After applying the hidden or system attribute to a file, it will not appear in a directory listing unless you specifically
+request it with the /A parameter of the DIRECTORY command.
+
+
+
+https://web.csulb.edu/~murdock/attrib.html
