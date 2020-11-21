@@ -1,5 +1,12 @@
 # TEAM NAME : CODING NINJAS 
 
+# TEAM MEMBERS:
+                   VISHNU SAI BHONSLE
+                   P.V.S VARUN KUMAR
+                   BHOOMIKA N
+                   DEEKSHA CHILUKURI
+
+
 # AKIRA-SYSYEM-SECURED-VAULT
 
 # PROBLEM ???
@@ -10,4 +17,9 @@ we are unable to secure those  files and  folders. we don’t have any proper au
 
 # example
 If a 8 years kid using his father’s company laptop to play games, by accidentally if he delete any important files of project work it may cause large burden to his father 
+
+
+#ARCHITECTURE OF NEW REGISTRATION PROCESS 
+
+![image](https://drive.google.com/uc?export=view&id=1l3SIjEJ83i4HHWUu073OkavGJ9n4iBwZ)
 
