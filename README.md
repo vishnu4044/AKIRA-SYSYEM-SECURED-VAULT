@@ -95,3 +95,20 @@ Sometimes the locked folder can be deleted by the user accidentally
 or intentionally. So, we have come up with an idea where users can
 access the folder by using face-id or email-otp
 
+# Used tech-
+## python libraies
+kivy
+kivymd
+random
+hashlib
+imutils 
+smtplib
+numpy 
+thinker
+pickle
+cv2
+os
+time
+sklearn
+
+
