@@ -23,3 +23,12 @@ If a 8 years kid using his father’s company laptop to play games, by accidenta
 
 ![image](https://drive.google.com/uc?export=view&id=1l3SIjEJ83i4HHWUu073OkavGJ9n4iBwZ)
 
+# ARCHITECTURE OF REGISTERED USER 
+
+![image](https://drive.google.com/uc?export=view&id=1B0iS6k3KXzIByRZ1acH7CQEu0s87AeLE)
+
+# PROJECT COMPLETE ARCHITECTURE: 
+
+![image](https://drive.google.com/uc?export=view&id=1N6GIMP_5YC9Nb67g04koFchjWZf_BGjR)
+
+
