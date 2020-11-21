@@ -97,18 +97,18 @@ access the folder by using face-id or email-otp
 
 # Used tech-
 ## python libraies
-kivy
-kivymd
-random
-hashlib
-imutils 
-smtplib
-numpy 
-thinker
-pickle
-cv2
-os
-time
-sklearn
-
-
+kivy,
+kivymd,
+random,
+hashlib,
+imutils ,
+smtplib,
+numpy, 
+thinker,
+pickle,
+cv2,
+os,
+time,
+sklearn.
+## instruction to use 
+install all pip libraies mentioned above and run main.py file 
