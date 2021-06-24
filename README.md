@@ -1,12 +1,5 @@
-# TEAM NAME : CODING NINJAS 
 
-# TEAM MEMBERS:
-                   VISHNU SAI BHONSLE
-                   P.V.S VARUN KUMAR
-                   BHOOMIKA N
-                   DEEKSHA CHILUKURI
-
-
+                  
 # AKIRA-SYSYEM-SECURED-VAULT
 
 # PROBLEM ???
